@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace WordGuessingGame
 {
-    public class Round : IGame
+    public class Round
     {
         private int guesses = 0;
         private readonly List<char> word;
