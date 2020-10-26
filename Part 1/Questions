@@ -40,7 +40,7 @@
 
 13.	Non static class can and have to be instantiated
 
-14.	/TODO ???
+14.	If there are complicated calculations for static parameters of the class, inapropriate for inline init
 
 15.	private string myName;
 	public string MyName 
