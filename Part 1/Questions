@@ -15,7 +15,7 @@
 
 5.	Yes, the implementation will be same in all derived classes, unless overriden.
 
-6.	No /TODO ???
+6.	No (.Net version related?)
 
 7.	Yes, all methods are public and abstract 
 	No, interface enforces inheritors to implement these
@@ -55,7 +55,7 @@
 
 17.	Backing Field of the same type is created
 
-18.	??? /TODO
+18.	Yes, there are disassemblers(DotPeek, maybe others) to extract C# code.
 
 19.	
 	- stack
@@ -77,7 +77,7 @@
 
 23.	IComparable
 
-24.	IComparable, IEnumerable / TODO ???
+24.	IComparable, IEnumerable
 
 25.	No, it is possible to create try-finally without catch
 	If application throws another exception, eventually comes back to finally, it in in it's stack
